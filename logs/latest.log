@@ -1,0 +1,31 @@
+
+=== Multi Downloader NX 5.4.9 ===
+
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+[ERROR] TypeError: fetch failed
+[ERROR] Token Refresh Failed!
+[ERROR] Authentication required!
+[ERROR] TypeError: fetch failed
+[ERROR] Token Refresh Failed!
+[ERROR] Authentication required!
+
+------------------------------
+

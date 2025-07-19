@@ -1,0 +1,318 @@
+
+=== Multi Downloader NX 5.4.9 ===
+
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+USER: SeaKyuSee (stevendo49@yahoo.com)
+Your Country: IN
+
+[Z:GP5HJ84P7] Gachiakuta (Seasons: 1, EPs: 2) [SIMULCAST, MATURE, SUB, DUB]
+  - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-CN, zh-HK, th-TH, ms-MY, vi-VN, id-ID
+  - Availability notes: The next episode will be available on 7/27
+  [S:G6GGCVZD8] Gachiakuta (Season: 1) [SIMULCAST, MATURE, SUB, DUB]
+    - Versions: en, es-419, es-ES, pt-BR, fr, de, it, hi, ta-IN, te-IN, ja
+    - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-CN, zh-HK, th-TH, ms-MY, vi-VN, id-ID
+[E1] [2025-07-06] Gachiakuta - Season 1 - The Sphere [Spanish, Japanese, Portuguese, French, German, Italian, Castilian, Tamil (India), English, Telugu (India), Hindi]
+[E2] [2025-07-13] Gachiakuta - Season 1 - The Inhabited [☆ Japanese, ☆ Spanish, ☆ French, ☆ German, ☆ Portuguese, ☆ Italian, ☆ Castilian, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India), ☆ English]
+
+------------------------------
+
+[S1E2] - The Inhabited [✓ Japanese, ✓ Hindi, ✓ English]
+Requesting: [GVWU82Q3N] Gachiakuta - 2 - The Inhabited
+Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_lgtv_dash_drm/jpn/- )
+Downloading video...
+Playlists URL: https://www.crunchyroll.com/playback/v1/manifest/GVWU82Q3N/evs3/7fee7fcab608494a9cf15d724c0d7663/assets/p/64f4e128a59b05a59a8e8bfd056791bc_,6943407.mp4,6943408.mp4,6943406.mp4,6943404.mp4,6943405.mp4,.urlset/manifest.mpd?playbackGuid=04-1feaf76a-fd78-4d76-896f-b03a5f86712f&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5&audioSelection=primary (adaptive_lgtv_dash_drm/jpn/-)
+Servers available:
+	a-vrv.akamaized.net
+Available Video Qualities:
+	[1] 428x240 (487KiB/s)
+	[2] 640x360 (972KiB/s)
+	[3] 848x480 (1949KiB/s)
+	[4] 1280x720 (3893KiB/s)
+	[5] 1920x1080 (7788KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 1920x1080 (7788KiB/s)
+	Audio: 128kB/s
+	Server: a-vrv.akamaized.net
+Stream URL: https://a-vrv.akamaized.net/evs3/7fee7fcab608494a9cf15d724c0d7663/assets/p/64f4e128a59b05a59a8e8bfd056791bc_,6943407.mp4,6943408.mp4,6943406.mp4,6943404.mp4,6943405.mp4
+Total parts in video stream: 355 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.video.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (29s | 33Mb/s)
+20 of 355 parts downloaded [6%] (25s | 59Mb/s)
+30 of 355 parts downloaded [8%] (24s | 67Mb/s)
+40 of 355 parts downloaded [11%] (23s | 69Mb/s)
+50 of 355 parts downloaded [14%] (22s | 69Mb/s)
+60 of 355 parts downloaded [17%] (19s | 69Mb/s)
+70 of 355 parts downloaded [20%] (19s | 66Mb/s)
+80 of 355 parts downloaded [23%] (18s | 66Mb/s)
+90 of 355 parts downloaded [25%] (17s | 66Mb/s)
+100 of 355 parts downloaded [28%] (16s | 68Mb/s)
+110 of 355 parts downloaded [31%] (16s | 66Mb/s)
+120 of 355 parts downloaded [34%] (15s | 67Mb/s)
+130 of 355 parts downloaded [37%] (15s | 64Mb/s)
+140 of 355 parts downloaded [39%] (15s | 63Mb/s)
+150 of 355 parts downloaded [42%] (14s | 64Mb/s)
+160 of 355 parts downloaded [45%] (14s | 63Mb/s)
+170 of 355 parts downloaded [48%] (13s | 63Mb/s)
+180 of 355 parts downloaded [51%] (12s | 61Mb/s)
+190 of 355 parts downloaded [54%] (11s | 62Mb/s)
+200 of 355 parts downloaded [56%] (11s | 60Mb/s)
+210 of 355 parts downloaded [59%] (10s | 60Mb/s)
+220 of 355 parts downloaded [62%] (9s | 59Mb/s)
+230 of 355 parts downloaded [65%] (9s | 60Mb/s)
+240 of 355 parts downloaded [68%] (8s | 59Mb/s)
+250 of 355 parts downloaded [70%] (7s | 58Mb/s)
+260 of 355 parts downloaded [73%] (7s | 58Mb/s)
+270 of 355 parts downloaded [76%] (6s | 58Mb/s)
+280 of 355 parts downloaded [79%] (5s | 58Mb/s)
+290 of 355 parts downloaded [82%] (4s | 59Mb/s)
+300 of 355 parts downloaded [85%] (4s | 58Mb/s)
+310 of 355 parts downloaded [87%] (3s | 58Mb/s)
+320 of 355 parts downloaded [90%] (2s | 58Mb/s)
+330 of 355 parts downloaded [93%] (2s | 58Mb/s)
+340 of 355 parts downloaded [96%] (1s | 56Mb/s)
+350 of 355 parts downloaded [99%] (0s | 56Mb/s)
+355 of 355 parts downloaded [100%] (0s | 56Mb/s)
+Total parts in audio stream: 355 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (6s | 3.9Mb/s)
+20 of 355 parts downloaded [6%] (6s | 4.0Mb/s)
+30 of 355 parts downloaded [8%] (8s | 2.7Mb/s)
+40 of 355 parts downloaded [11%] (7s | 2.8Mb/s)
+50 of 355 parts downloaded [14%] (7s | 3.0Mb/s)
+60 of 355 parts downloaded [17%] (7s | 3.0Mb/s)
+70 of 355 parts downloaded [20%] (8s | 2.5Mb/s)
+80 of 355 parts downloaded [23%] (7s | 2.5Mb/s)
+90 of 355 parts downloaded [25%] (7s | 2.5Mb/s)
+100 of 355 parts downloaded [28%] (7s | 2.5Mb/s)
+110 of 355 parts downloaded [31%] (7s | 2.3Mb/s)
+120 of 355 parts downloaded [34%] (7s | 2.3Mb/s)
+130 of 355 parts downloaded [37%] (6s | 2.4Mb/s)
+140 of 355 parts downloaded [39%] (6s | 2.4Mb/s)
+150 of 355 parts downloaded [42%] (6s | 2.4Mb/s)
+160 of 355 parts downloaded [45%] (6s | 2.3Mb/s)
+170 of 355 parts downloaded [48%] (5s | 2.3Mb/s)
+180 of 355 parts downloaded [51%] (5s | 2.4Mb/s)
+190 of 355 parts downloaded [54%] (5s | 2.4Mb/s)
+200 of 355 parts downloaded [56%] (4s | 2.5Mb/s)
+210 of 355 parts downloaded [59%] (4s | 2.5Mb/s)
+220 of 355 parts downloaded [62%] (4s | 2.5Mb/s)
+230 of 355 parts downloaded [65%] (3s | 2.5Mb/s)
+240 of 355 parts downloaded [68%] (3s | 2.5Mb/s)
+250 of 355 parts downloaded [70%] (3s | 2.5Mb/s)
+260 of 355 parts downloaded [73%] (2s | 2.6Mb/s)
+270 of 355 parts downloaded [76%] (2s | 2.6Mb/s)
+280 of 355 parts downloaded [79%] (2s | 2.6Mb/s)
+290 of 355 parts downloaded [82%] (2s | 2.7Mb/s)
+300 of 355 parts downloaded [85%] (1s | 2.7Mb/s)
+310 of 355 parts downloaded [87%] (1s | 2.7Mb/s)
+320 of 355 parts downloaded [90%] (1s | 2.7Mb/s)
+330 of 355 parts downloaded [93%] (1s | 2.7Mb/s)
+340 of 355 parts downloaded [96%] (0s | 2.7Mb/s)
+350 of 355 parts downloaded [99%] (0s | 2.7Mb/s)
+355 of 355 parts downloaded [100%] (0s | 2.7Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting video, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 7b483f034752376e8fbd930cc36ce4df:6266a59e38a3a52c385a44a281a8ff04 "/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.video.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.video.m4s"
+Decryption done for video
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 7b483f034752376e8fbd930cc36ce4df:6266a59e38a3a52c385a44a281a8ff04 "/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.audio.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-GVWU82Q3N.audio.m4s"
+Decryption done for audio
+Subtitle downloaded: [CR] Gachiakuta - S01E02 [1080p].01.eng.English.ass
+Requesting: [GVWU82Q3N] Gachiakuta - 2 - The Inhabited
+Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_lgtv_dash_drm/hin/- )
+Downloading video...
+Playlists URL: https://www.crunchyroll.com/playback/v1/manifest/G50UMD78J/evs3/3923a0fd31ce4aff92f4f2fdf4f3bd02/assets/p/30067fbbd87d87c52da433bd909e0c7e_,6950027.mp4,6950028.mp4,6950026.mp4,6950024.mp4,6950025.mp4,.urlset/manifest.mpd?playbackGuid=04-fb3e45bd-34e1-4d15-99aa-ba6a4973473a&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5&audioSelection=primary (adaptive_lgtv_dash_drm/hin/-)
+Servers available:
+	a-vrv.akamaized.net
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (972KiB/s)
+	[3] 848x480 (1949KiB/s)
+	[4] 1280x720 (3892KiB/s)
+	[5] 1920x1080 (7795KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 1920x1080 (7795KiB/s)
+	Audio: 128kB/s
+	Server: a-vrv.akamaized.net
+Stream URL: https://a-vrv.akamaized.net/evs3/3923a0fd31ce4aff92f4f2fdf4f3bd02/assets/p/30067fbbd87d87c52da433bd909e0c7e_,6950027.mp4,6950028.mp4,6950026.mp4,6950024.mp4,6950025.mp4
+Already downloaded video, skipping video download...
+Total parts in audio stream: 355 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-G50UMD78J.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (2m02s | 0.19Mb/s)
+20 of 355 parts downloaded [6%] (2m04s | 0.18Mb/s)
+30 of 355 parts downloaded [8%] (2m04s | 0.18Mb/s)
+40 of 355 parts downloaded [11%] (2m00s | 0.18Mb/s)
+50 of 355 parts downloaded [14%] (1m53s | 0.18Mb/s)
+60 of 355 parts downloaded [17%] (1m44s | 0.19Mb/s)
+70 of 355 parts downloaded [20%] (1m38s | 0.19Mb/s)
+80 of 355 parts downloaded [23%] (1m35s | 0.19Mb/s)
+90 of 355 parts downloaded [25%] (1m45s | 0.17Mb/s)
+100 of 355 parts downloaded [28%] (1m43s | 0.17Mb/s)
+110 of 355 parts downloaded [31%] (1m39s | 0.17Mb/s)
+120 of 355 parts downloaded [34%] (1m33s | 0.17Mb/s)
+130 of 355 parts downloaded [37%] (1m28s | 0.17Mb/s)
+140 of 355 parts downloaded [39%] (1m25s | 0.17Mb/s)
+150 of 355 parts downloaded [42%] (1m19s | 0.17Mb/s)
+160 of 355 parts downloaded [45%] (1m14s | 0.18Mb/s)
+170 of 355 parts downloaded [48%] (1m09s | 0.18Mb/s)
+180 of 355 parts downloaded [51%] (1m04s | 0.18Mb/s)
+190 of 355 parts downloaded [54%] (1m01s | 0.18Mb/s)
+200 of 355 parts downloaded [56%] (58s | 0.18Mb/s)
+210 of 355 parts downloaded [59%] (54s | 0.18Mb/s)
+220 of 355 parts downloaded [62%] (58s | 0.16Mb/s)
+230 of 355 parts downloaded [65%] (53s | 0.16Mb/s)
+240 of 355 parts downloaded [68%] (49s | 0.16Mb/s)
+[WARN] Retrying part 244 (1/4)
+250 of 355 parts downloaded [70%] (50s | 0.14Mb/s)
+260 of 355 parts downloaded [73%] (44s | 0.14Mb/s)
+270 of 355 parts downloaded [76%] (39s | 0.14Mb/s)
+280 of 355 parts downloaded [79%] (35s | 0.14Mb/s)
+290 of 355 parts downloaded [82%] (30s | 0.15Mb/s)
+300 of 355 parts downloaded [85%] (25s | 0.15Mb/s)
+310 of 355 parts downloaded [87%] (20s | 0.15Mb/s)
+320 of 355 parts downloaded [90%] (16s | 0.15Mb/s)
+330 of 355 parts downloaded [93%] (11s | 0.15Mb/s)
+340 of 355 parts downloaded [96%] (7s | 0.15Mb/s)
+350 of 355 parts downloaded [99%] (2s | 0.15Mb/s)
+355 of 355 parts downloaded [100%] (0s | 0.15Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key a704c5ab6c8c3b25bcec669461d1e513:9e0056793ad408dd27470f6d9c4e45f8 "/workspaces/Win10-ngrok/videos/temp-G50UMD78J.audio.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-G50UMD78J.audio.m4s"
+Decryption done for audio
+Requesting: [GVWU82Q3N] Gachiakuta - 2 - The Inhabited
+Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_lgtv_dash_drm/eng/- )
+Downloading video...
+Playlists URL: https://www.crunchyroll.com/playback/v1/manifest/G0DUMX5V0/evs3/d4efb6c69cb3401996d5b87e357ef7ed/assets/p/5a9bad5e3ea6893e563624b5ab5a22f8_,6949923.mp4,6949924.mp4,6949922.mp4,6949920.mp4,6949921.mp4,29801.txt,.urlset/manifest.mpd?playbackGuid=04-3ed5b059-6910-4a97-9b96-3ade29f9f0d7&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5&audioSelection=primary (adaptive_lgtv_dash_drm/eng/-)
+Servers available:
+	a-vrv.akamaized.net
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (972KiB/s)
+	[3] 848x480 (1949KiB/s)
+	[4] 1280x720 (3892KiB/s)
+	[5] 1920x1080 (7795KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 1920x1080 (7795KiB/s)
+	Audio: 128kB/s
+	Server: a-vrv.akamaized.net
+Stream URL: https://a-vrv.akamaized.net/evs3/d4efb6c69cb3401996d5b87e357ef7ed/assets/p/5a9bad5e3ea6893e563624b5ab5a22f8_,6949923.mp4,6949924.mp4,6949922.mp4,6949920.mp4,6949921.mp4,29801.txt
+Already downloaded video, skipping video download...
+Total parts in audio stream: 355 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-G0DUMX5V0.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (46s | 0.50Mb/s)
+20 of 355 parts downloaded [6%] (48s | 0.47Mb/s)
+30 of 355 parts downloaded [8%] (46s | 0.47Mb/s)
+40 of 355 parts downloaded [11%] (43s | 0.49Mb/s)
+50 of 355 parts downloaded [14%] (40s | 0.51Mb/s)
+60 of 355 parts downloaded [17%] (42s | 0.47Mb/s)
+70 of 355 parts downloaded [20%] (40s | 0.48Mb/s)
+80 of 355 parts downloaded [23%] (39s | 0.47Mb/s)
+90 of 355 parts downloaded [25%] (38s | 0.47Mb/s)
+100 of 355 parts downloaded [28%] (36s | 0.47Mb/s)
+110 of 355 parts downloaded [31%] (37s | 0.45Mb/s)
+120 of 355 parts downloaded [34%] (35s | 0.45Mb/s)
+130 of 355 parts downloaded [37%] (33s | 0.45Mb/s)
+140 of 355 parts downloaded [39%] (32s | 0.45Mb/s)
+150 of 355 parts downloaded [42%] (30s | 0.45Mb/s)
+160 of 355 parts downloaded [45%] (29s | 0.46Mb/s)
+170 of 355 parts downloaded [48%] (27s | 0.46Mb/s)
+180 of 355 parts downloaded [51%] (26s | 0.46Mb/s)
+190 of 355 parts downloaded [54%] (24s | 0.46Mb/s)
+200 of 355 parts downloaded [56%] (23s | 0.46Mb/s)
+210 of 355 parts downloaded [59%] (21s | 0.47Mb/s)
+220 of 355 parts downloaded [62%] (19s | 0.47Mb/s)
+230 of 355 parts downloaded [65%] (18s | 0.46Mb/s)
+240 of 355 parts downloaded [68%] (17s | 0.46Mb/s)
+250 of 355 parts downloaded [70%] (15s | 0.46Mb/s)
+260 of 355 parts downloaded [73%] (13s | 0.47Mb/s)
+270 of 355 parts downloaded [76%] (12s | 0.47Mb/s)
+280 of 355 parts downloaded [79%] (11s | 0.47Mb/s)
+290 of 355 parts downloaded [82%] (9s | 0.48Mb/s)
+300 of 355 parts downloaded [85%] (8s | 0.47Mb/s)
+310 of 355 parts downloaded [87%] (6s | 0.48Mb/s)
+320 of 355 parts downloaded [90%] (5s | 0.47Mb/s)
+330 of 355 parts downloaded [93%] (4s | 0.47Mb/s)
+340 of 355 parts downloaded [96%] (2s | 0.47Mb/s)
+350 of 355 parts downloaded [99%] (1s | 0.48Mb/s)
+355 of 355 parts downloaded [100%] (0s | 0.48Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 0f4be1883e473d9c9a67db84a5dcf81a:ca11cace59ea3e41a39a965001c2700b "/workspaces/Win10-ngrok/videos/temp-G0DUMX5V0.audio.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-G0DUMX5V0.audio.m4s"
+Decryption done for audio
+Subtitle downloaded: [CR] Gachiakuta - S01E02 [1080p].01.eng.English.signs.ass
+[WARN] VTT2ASS: Can't properly parse text-shadow: text-shadow: #000000ff -2px 0px 2px, #000000ff 0px 2px 2px, #000000ff 0px -2px 2px, #000000ff 2px 0px 2px
+Subtitle downloaded: [CR] Gachiakuta - S01E02 [1080p].02.eng.English.cc.ass
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+
+Subtitles: en, en, en (Total: 3)
+Required fonts: Trebuchet MS, Arial, Arial Black, Courier New, Comic Sans MS, Georgia, Impact, Times New Roman, Verdana (Total: 9)
+[ffmpeg] Started merging
+
+> "ffmpeg" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].Japanese.video.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].Japanese.audio.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].Hindi.audio.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].English.audio.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].01.eng.English.ass" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].01.eng.English.signs.ass" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].02.eng.English.cc.vtt" -i "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].Japanese.txt" -map_metadata 1 -map 0 -map -0:a -metadata:s:v:0 title="undefined" -map 1 -metadata:s:a:0 language=jpn -map 2 -metadata:s:a:1 language=hin -map 3 -metadata:s:a:2 language=eng -map 4 -map 5 -map 6 -c:v copy -c:a copy -c:s ass -metadata:s:s:0 title="English" -metadata:s:s:0 language=eng -metadata:s:s:1 title="English Signs" -metadata:s:s:1 language=eng -metadata:s:s:2 title="English cc" -metadata:s:s:2 language=eng "/workspaces/Win10-ngrok/videos/[CR] Gachiakuta - S01E02 [1080p].mkv"
+[ffmpeg Done]

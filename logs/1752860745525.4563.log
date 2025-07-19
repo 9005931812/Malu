@@ -1,0 +1,263 @@
+
+=== Multi Downloader NX 5.4.9 ===
+
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+USER: SeaKyuSee (stevendo49@yahoo.com)
+Your Country: IN
+
+[Z:GVDHX85EQ] Catch Me at the Ballpark! (Seasons: 1, EPs: 12) [SIMULCAST, SUB, DUB]
+  - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-CN, th-TH, ms-MY, vi-VN, id-ID
+  [S:G69PC2308] Catch Me at the Ballpark! (Season: 1) [SIMULCAST, SUB, DUB]
+    - Versions: hi, ja
+    - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-CN, th-TH, ms-MY, vi-VN, id-ID
+[E1] [2025-04-01] Catch Me at the Ballpark! - Season 1 - Ruriko the Beer Vendor Girl / Welcome, Regular / Candy and Tears [Japanese, Hindi]
+[E2] [2025-04-08] Catch Me at the Ballpark! - Season 1 - The Definition of a Baseball Fan / No! Never! / The Head Scarf of Innocence [Japanese, Hindi]
+[E3] [2025-04-15] Catch Me at the Ballpark! - Season 1 - The Goddess of Baseball? / The Invincible Mascot / Rah! Rah! Rah! [Japanese, Hindi]
+[E4] [2025-04-22] Catch Me at the Ballpark! - Season 1 - Soul Announcer / The Suggestion Box Incident (Pt. 1) / The Suggestion Box Incident (Pt. 2) [☆ Japanese, ☆ Hindi]
+[E5] [2025-04-29] Catch Me at the Ballpark! - Season 1 - Ticks Me Off! / The Meal Pack Capriccio / Different Faces [☆ Japanese, ☆ Hindi]
+[E6] [2025-05-06] Catch Me at the Ballpark! - Season 1 - A Good Kid / So Many Treasures / Going Off-Script [☆ Japanese, ☆ Hindi]
+[E7] [2025-05-13] Catch Me at the Ballpark! - Season 1 - The Pointless 99 Times / Bonds Forged Over Food / Transform!! [☆ Japanese, ☆ Hindi]
+[E8] [2025-05-20] Catch Me at the Ballpark! - Season 1 - It's the Wind's Fault / Signs / Watch Out for Online News! [☆ Japanese, ☆ Hindi]
+[E9] [2025-05-27] Catch Me at the Ballpark! - Season 1 - Tommy's Melancholy / Mr. Murata / Show Your Sun [☆ Japanese, ☆ Hindi]
+[E10] [2025-06-03] Catch Me at the Ballpark! - Season 1 - Us Back Then / Whack That Bottom! / The Double-T Duo [☆ Japanese, ☆ Hindi]
+[E11] [2025-06-10] Catch Me at the Ballpark! - Season 1 - The Clincher! / The Clincher! (Pt. 2) / The Clincher! (Pt. 3) [☆ Japanese, ☆ Hindi]
+[E12] [2025-06-17] Catch Me at the Ballpark! - Season 1 - Transformative Game / Last Message / It's Opening Day, Okay?! [☆ Japanese, ☆ Hindi]
+
+------------------------------
+
+[S1E5] - Ticks Me Off! / The Meal Pack Capriccio / Different Faces [✓ Japanese, ✓ Hindi]
+Requesting: [GMKUEMV7K] Catch Me at the Ballpark! - 5 - Ticks Me Off! / The Meal Pack Capriccio / Different Faces
+[ERROR] 403: Forbidden
+[ERROR] <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message></Error>
+[WARN] Chapter request failed, attempting old API
+Old Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_lgtv_dash_drm/jpn/- )
+Downloading video...
+Playlists URL: https://www.crunchyroll.com/playback/v1/manifest/GMKUEMV7K/evs3/973025b12e2d4c5db38bebbbf0f45b63/assets/p/65839e8900ed0828366995258e63d4c5_,6054734.mp4,6054735.mp4,6054733.mp4,6054731.mp4,6054732.mp4,.urlset/manifest.mpd?playbackGuid=04-ffaa29cc-46b5-4690-8b17-d0724aeafaf6&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5&audioSelection=primary (adaptive_lgtv_dash_drm/jpn/-)
+Servers available:
+	vod-fy.crunchyrollcdn.com
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (974KiB/s)
+	[3] 848x480 (1951KiB/s)
+	[4] 1280x720 (3901KiB/s)
+	[5] 1920x1080 (7776KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 1920x1080 (7776KiB/s)
+	Audio: 128kB/s
+	Server: vod-fy.crunchyrollcdn.com
+Stream URL: https://vod-fy.crunchyrollcdn.com/evs3/973025b12e2d4c5db38bebbbf0f45b63/assets/p/65839e8900ed0828366995258e63d4c5_,6054734.mp4,6054735.mp4,6054733.mp4,6054731.mp4,6054732.mp4
+Total parts in video stream: 357 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.video.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 357 parts downloaded [3%] (2m45s | 10Mb/s)
+20 of 357 parts downloaded [6%] (2m51s | 9.6Mb/s)
+30 of 357 parts downloaded [8%] (2m15s | 11Mb/s)
+40 of 357 parts downloaded [11%] (4m11s | 5.4Mb/s)
+50 of 357 parts downloaded [14%] (3m39s | 5.6Mb/s)
+60 of 357 parts downloaded [17%] (3m17s | 6.0Mb/s)
+70 of 357 parts downloaded [20%] (2m52s | 6.5Mb/s)
+80 of 357 parts downloaded [22%] (2m38s | 6.8Mb/s)
+90 of 357 parts downloaded [25%] (2m23s | 7.2Mb/s)
+100 of 357 parts downloaded [28%] (2m10s | 7.4Mb/s)
+110 of 357 parts downloaded [31%] (2m01s | 7.6Mb/s)
+120 of 357 parts downloaded [34%] (1m53s | 8.0Mb/s)
+130 of 357 parts downloaded [36%] (1m46s | 8.2Mb/s)
+140 of 357 parts downloaded [39%] (1m39s | 8.4Mb/s)
+150 of 357 parts downloaded [42%] (1m32s | 8.6Mb/s)
+160 of 357 parts downloaded [45%] (1m27s | 8.7Mb/s)
+170 of 357 parts downloaded [48%] (1m21s | 8.8Mb/s)
+180 of 357 parts downloaded [50%] (1m16s | 9.0Mb/s)
+190 of 357 parts downloaded [53%] (1m11s | 9.2Mb/s)
+200 of 357 parts downloaded [56%] (1m06s | 9.3Mb/s)
+210 of 357 parts downloaded [59%] (1m01s | 9.4Mb/s)
+220 of 357 parts downloaded [62%] (56s | 9.5Mb/s)
+230 of 357 parts downloaded [64%] (52s | 9.4Mb/s)
+240 of 357 parts downloaded [67%] (48s | 9.4Mb/s)
+250 of 357 parts downloaded [70%] (44s | 9.4Mb/s)
+260 of 357 parts downloaded [73%] (39s | 9.6Mb/s)
+270 of 357 parts downloaded [76%] (35s | 9.6Mb/s)
+280 of 357 parts downloaded [78%] (31s | 9.7Mb/s)
+290 of 357 parts downloaded [81%] (27s | 9.7Mb/s)
+300 of 357 parts downloaded [84%] (23s | 9.7Mb/s)
+310 of 357 parts downloaded [87%] (19s | 9.7Mb/s)
+320 of 357 parts downloaded [90%] (15s | 9.7Mb/s)
+330 of 357 parts downloaded [92%] (11s | 9.8Mb/s)
+340 of 357 parts downloaded [95%] (7s | 9.9Mb/s)
+350 of 357 parts downloaded [98%] (3s | 10Mb/s)
+357 of 357 parts downloaded [100%] (0s | 10Mb/s)
+Total parts in audio stream: 357 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 357 parts downloaded [3%] (22s | 1.0Mb/s)
+20 of 357 parts downloaded [6%] (19s | 1.2Mb/s)
+30 of 357 parts downloaded [8%] (21s | 1.0Mb/s)
+40 of 357 parts downloaded [11%] (20s | 1.0Mb/s)
+50 of 357 parts downloaded [14%] (21s | 0.98Mb/s)
+60 of 357 parts downloaded [17%] (21s | 0.96Mb/s)
+70 of 357 parts downloaded [20%] (22s | 0.87Mb/s)
+80 of 357 parts downloaded [22%] (20s | 0.91Mb/s)
+90 of 357 parts downloaded [25%] (18s | 0.97Mb/s)
+100 of 357 parts downloaded [28%] (17s | 1.0Mb/s)
+110 of 357 parts downloaded [31%] (17s | 0.99Mb/s)
+120 of 357 parts downloaded [34%] (16s | 0.99Mb/s)
+130 of 357 parts downloaded [36%] (15s | 1.0Mb/s)
+140 of 357 parts downloaded [39%] (14s | 1.1Mb/s)
+150 of 357 parts downloaded [42%] (14s | 1.0Mb/s)
+160 of 357 parts downloaded [45%] (13s | 1.1Mb/s)
+170 of 357 parts downloaded [48%] (12s | 1.1Mb/s)
+180 of 357 parts downloaded [50%] (12s | 1.0Mb/s)
+190 of 357 parts downloaded [53%] (11s | 1.0Mb/s)
+200 of 357 parts downloaded [56%] (10s | 1.0Mb/s)
+210 of 357 parts downloaded [59%] (10s | 1.0Mb/s)
+220 of 357 parts downloaded [62%] (9s | 1.1Mb/s)
+230 of 357 parts downloaded [64%] (8s | 1.0Mb/s)
+240 of 357 parts downloaded [67%] (8s | 1.0Mb/s)
+250 of 357 parts downloaded [70%] (7s | 1.0Mb/s)
+260 of 357 parts downloaded [73%] (6s | 1.0Mb/s)
+270 of 357 parts downloaded [76%] (6s | 1.0Mb/s)
+280 of 357 parts downloaded [78%] (5s | 1.0Mb/s)
+290 of 357 parts downloaded [81%] (4s | 1.0Mb/s)
+300 of 357 parts downloaded [84%] (4s | 1.0Mb/s)
+310 of 357 parts downloaded [87%] (3s | 1.0Mb/s)
+320 of 357 parts downloaded [90%] (2s | 1.0Mb/s)
+330 of 357 parts downloaded [92%] (2s | 1.0Mb/s)
+340 of 357 parts downloaded [95%] (1s | 1.0Mb/s)
+350 of 357 parts downloaded [98%] (0s | 1.0Mb/s)
+357 of 357 parts downloaded [100%] (0s | 1.0Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting video, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key e51bda73e6ef337495b418be4b6ab49f:32fa58b7885f9c51e2fcfc7dc3b6bb06 "/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.video.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.video.m4s"
+Decryption done for video
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key e51bda73e6ef337495b418be4b6ab49f:32fa58b7885f9c51e2fcfc7dc3b6bb06 "/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.audio.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-GMKUEMV7K.audio.m4s"
+Decryption done for audio
+Subtitle downloaded: [CR] Catch Me at the Ballpark! - S01E05 [1080p].01.eng.English.ass
+Requesting: [GMKUEMV7K] Catch Me at the Ballpark! - 5 - Ticks Me Off! / The Meal Pack Capriccio / Different Faces
+[ERROR] 403: Forbidden
+[ERROR] <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message></Error>
+[WARN] Chapter request failed, attempting old API
+Old Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_lgtv_dash_drm/hin/- )
+Downloading video...
+Playlists URL: https://www.crunchyroll.com/playback/v1/manifest/GWDU737D7/evs3/77653579a12c4ec08f048624eaed5f7f/assets/p/2a25fa182a39e518bc9fcff9a7b7a61c_,6880426.mp4,6880427.mp4,6880425.mp4,6880423.mp4,6880424.mp4,.urlset/manifest.mpd?playbackGuid=04-144301bf-c41d-44ec-8c91-1643300ce4c4&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5&audioSelection=primary (adaptive_lgtv_dash_drm/hin/-)
+Servers available:
+	vod-fy.crunchyrollcdn.com
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (974KiB/s)
+	[3] 848x480 (1947KiB/s)
+	[4] 1280x720 (3889KiB/s)
+	[5] 1920x1080 (7796KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 1920x1080 (7796KiB/s)
+	Audio: 128kB/s
+	Server: vod-fy.crunchyrollcdn.com
+Stream URL: https://vod-fy.crunchyrollcdn.com/evs3/77653579a12c4ec08f048624eaed5f7f/assets/p/2a25fa182a39e518bc9fcff9a7b7a61c_,6880426.mp4,6880427.mp4,6880425.mp4,6880423.mp4,6880424.mp4
+Already downloaded video, skipping video download...
+Total parts in audio stream: 357 (36*10)
+Saving stream to «/workspaces/Win10-ngrok/videos/temp-GWDU737D7.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 357 parts downloaded [3%] (2m25s | 0.16Mb/s)
+20 of 357 parts downloaded [6%] (2m15s | 0.17Mb/s)
+30 of 357 parts downloaded [8%] (2m02s | 0.18Mb/s)
+40 of 357 parts downloaded [11%] (1m55s | 0.18Mb/s)
+50 of 357 parts downloaded [14%] (1m49s | 0.19Mb/s)
+60 of 357 parts downloaded [17%] (1m44s | 0.19Mb/s)
+70 of 357 parts downloaded [20%] (2m42s | 0.12Mb/s)
+80 of 357 parts downloaded [22%] (3m21s | 0.092Mb/s)
+90 of 357 parts downloaded [25%] (3m01s | 0.099Mb/s)
+100 of 357 parts downloaded [28%] (2m44s | 0.10Mb/s)
+110 of 357 parts downloaded [31%] (2m31s | 0.11Mb/s)
+120 of 357 parts downloaded [34%] (2m19s | 0.11Mb/s)
+[WARN] Retrying part 125 (1/4)
+130 of 357 parts downloaded [36%] (2m29s | 0.10Mb/s)
+140 of 357 parts downloaded [39%] (2m17s | 0.11Mb/s)
+150 of 357 parts downloaded [42%] (2m06s | 0.11Mb/s)
+160 of 357 parts downloaded [45%] (1m56s | 0.11Mb/s)
+170 of 357 parts downloaded [48%] (1m47s | 0.12Mb/s)
+180 of 357 parts downloaded [50%] (1m39s | 0.12Mb/s)
+190 of 357 parts downloaded [53%] (1m31s | 0.12Mb/s)
+200 of 357 parts downloaded [56%] (1m24s | 0.13Mb/s)
+210 of 357 parts downloaded [59%] (1m17s | 0.13Mb/s)
+220 of 357 parts downloaded [62%] (1m10s | 0.13Mb/s)
+230 of 357 parts downloaded [64%] (1m04s | 0.13Mb/s)
+240 of 357 parts downloaded [67%] (58s | 0.13Mb/s)
+250 of 357 parts downloaded [70%] (53s | 0.14Mb/s)
+260 of 357 parts downloaded [73%] (47s | 0.14Mb/s)
+270 of 357 parts downloaded [76%] (41s | 0.14Mb/s)
+280 of 357 parts downloaded [78%] (36s | 0.14Mb/s)
+290 of 357 parts downloaded [81%] (31s | 0.14Mb/s)
+300 of 357 parts downloaded [84%] (29s | 0.13Mb/s)
+310 of 357 parts downloaded [87%] (24s | 0.13Mb/s)
+320 of 357 parts downloaded [90%] (18s | 0.13Mb/s)
+330 of 357 parts downloaded [92%] (13s | 0.14Mb/s)
+340 of 357 parts downloaded [95%] (8s | 0.14Mb/s)
+350 of 357 parts downloaded [98%] (3s | 0.14Mb/s)
+357 of 357 parts downloaded [100%] (0s | 0.14Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key becd5776be823065892e8a0cfb2af22c:57e995a19c8d608ef54234f9c39b5c2b "/workspaces/Win10-ngrok/videos/temp-GWDU737D7.audio.enc.m4s" "/workspaces/Win10-ngrok/videos/temp-GWDU737D7.audio.m4s"
+Decryption done for audio
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+
+Subtitles: en (Total: 1)
+Required fonts: Trebuchet MS, Arial, Verdana, Georgia (Total: 4)
+[ffmpeg] Started merging
+
+> "ffmpeg" -i "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].Japanese.video.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].Japanese.audio.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].Hindi.audio.m4s" -i "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].01.eng.English.ass" -i "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].Japanese.txt" -map_metadata 1 -map 0 -map -0:a -metadata:s:v:0 title="undefined" -map 1 -metadata:s:a:0 language=jpn -map 2 -metadata:s:a:1 language=hin -map 3 -c:v copy -c:a copy -c:s ass -metadata:s:s:0 title="English" -metadata:s:s:0 language=eng "/workspaces/Win10-ngrok/videos/[CR] Catch Me at the Ballpark! - S01E05 [1080p].mkv"
+[ffmpeg Done]

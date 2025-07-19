@@ -1,0 +1,4 @@
+ffmpeg: C:\Users\runneradmin\Downloads\ffmpeg\bin
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\mkvmerge.exe"
+ffprobe: "ffprobe.exe"
+mp4decrypt: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\mp4decrypt.exe"
